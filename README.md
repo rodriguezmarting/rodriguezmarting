@@ -19,7 +19,7 @@
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezmarting)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguezmarting&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [nvim]: https://github.com/rodriguezmarting/nvim
 [cljs]: https://github.com/rodriguezmarting/cljs-antizer-reframe-reitit
