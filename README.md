@@ -14,8 +14,7 @@
 <br />
 
 ---
-
-[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=rodriguezmarting&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Martin's github stats](https://github-readme-stats.rodriguezmarting.vercel.app/api?username=rodriguezmarting&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [nvim]: https://github.com/rodriguezmarting/nvim
 [cljs]: https://github.com/rodriguezmarting/cljs-antizer-reframe-reitit
