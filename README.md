@@ -2,8 +2,8 @@
 
 ## How may I help you?
 - 📝 Do you like my [resume][resume]? Create your own [here][template]!
-- ⚡ Are you a NVim user like I am? Have a look at my [NVim config][nvim]!
-- 💎 Do you love Clojure as much as I do? Try out my [template][cljs]!
+- ⚡ Are you a NVim user? Have a look at my [NVim config][nvim]!
+- 💎 Do you love Clojure? Try out my [template][cljs]!
 
 ### Connect with me:
 
